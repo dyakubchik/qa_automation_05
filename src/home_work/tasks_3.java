@@ -1,6 +1,6 @@
 package home_work;
 
-public class home_work_2_1 {
+public class tasks_3 {
 
 
     /*Задача №1
@@ -22,7 +22,7 @@ a > b - если переменная b меньше a
         } else if(a < b)    {
             System.out.println("переменная a меньше b\n");
         } else if(a > b) {
-                System.out.println("переменная b меньше a\n");
+            System.out.println("переменная b меньше a\n");
         }
 
        /*Задача №2
@@ -104,8 +104,8 @@ some variable is odd - если сумма переменных нечетная
 
         for (int i = 40; i <= 60; i = i + 1)
             if(i % 4 == 0)
-            System.out.print(i + ", ");
-            System.out.println(" \n");
+                System.out.print(i + ", ");
+        System.out.println(" \n");
 
         System.out.println("Задача №6_2:");
 
@@ -117,4 +117,3 @@ some variable is odd - если сумма переменных нечетная
 
     }
 }
-

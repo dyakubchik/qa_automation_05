@@ -9,7 +9,7 @@ package home_work;
 Вывести/напечатать смайлик (не :), а настоящий смайлик одним символом).
 */
 
-public class home_work_1 {
+public class tasks_1 {
     public static void main(String[] args){
 
         int a = 1;
@@ -40,3 +40,4 @@ public class home_work_1 {
         System.out.println(smile2);
     }
 }
+
